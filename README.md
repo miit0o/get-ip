@@ -51,6 +51,7 @@
 - [Feature(s)](#features)
 - [Usage](#usage)
 - [Make it better](#make-it-better)
+- [More Info](#more-info)
 
 
 ## Features
@@ -67,3 +68,7 @@ That's it. Save the page and review your changes.
 
 ## Make it better
 If there is anything that should be added to this plugin, feel free to contribute.
+
+## More info
+### Why isn't this plugin on Wordpress.org?
+Well, honestly, I am just too lazy to do it. Maybe it'll be on there some time.
