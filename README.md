@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <strong>A simple Wordpress Plugin to show the user's IP address</strong>
+  <strong>The simplest Wordpress Plugin to show the user's IP address</strong>
 </div>
 
 <br />
@@ -29,7 +29,7 @@
       Download
     </a>
     <span> | </span>
-    <a href="#">
+    <a href="https://wpdemo.hostedby.me/getip-demo/">
       Demo
     </a>
     <span> | </span>
@@ -63,6 +63,7 @@ This Plugin could be useful for tech-supporters, that use Wordpress as their CMS
 To get this plugin to work, just go to any page and insert the shortcode.
 
 <code>[show_ip]</code>
+<code>[show_hostname]</code>
 
 That's it. Save the page and review your changes.
 
